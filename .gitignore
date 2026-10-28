@@ -1,0 +1,7 @@
+.env
+chat.db
+__pycache__/
+.venv/
+venv/
+*.pyc
+results.csv
